@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Marzia Bruno",
+      "titles": [ "Front-end Developer", "Software Engineer", "Web Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mmcbruno",
           "class": "fab fa-github"
         },
         {
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {

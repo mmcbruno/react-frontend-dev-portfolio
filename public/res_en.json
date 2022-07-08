@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Marzia Bruno. Proficient software engineer with an experience of more than 15 years in web development. Experienced in managing  a team  to overcome challenges.  I tend to be a single-minded and practical individual who will follow a line of action through to the end, using concentration and determination to achieve my  aims. I’m very conscious of the need to meet deadlines however I’m also  equally aware of the need to produce work of high quality and I’m  able to balance these two factors adequately.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -79,40 +79,42 @@
         ]
       }
     ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+  "experience": [
+    {
+      "company": "Tipico",
+      "title": "Senior Front-End Developer",
+      "years": "04.2010 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "Typescript",
+        "React",
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "HTML 5",
+        "Sass",
+        "Java"
+      ]
+    },
+    {
+      "company": "MeDirect Bank",
+      "title": "Web developer",
+      "years": "10.2013 - 03.2020",
+      "mainTech": [
+        ".NET Core",
+        "Javascript"
+      ],
+      "technologies": [
+        ".NET Core",
+        "Javascript",
+        "jQuery",
+        "React",
+        "Sitefinity",
+        "ASP.NET"
+      ]
+    }
+  ]
+}
